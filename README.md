@@ -1,5 +1,4 @@
-[week-2] https://my-site-ptw72gk9-ks6867259.wix-vibe.com
-[week-3] https://techfesr2.my.canva.site/
+[week-2] https://my-site-ptw72gk9-ks6867259.wix-vibe.com   [week-3] https://techfesr2.my.canva.site/
 [week-4] https://listifypuniki.my.canva.site/theshelf
 [week-5 ]https://phuketpuniki.my.canva.site/travel-blog 
 [week-6] https://v0-quiz-webpage-builder-seven.vercel.app/ 
