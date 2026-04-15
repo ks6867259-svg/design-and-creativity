@@ -1,10 +1,11 @@
-[week-2] https://my-site-ptw72gk9-ks6867259.wix-vibe.com   [week-3] https://techfesr2.my.canva.site/
-[week-4] https://listifypuniki.my.canva.site/theshelf
-[week-5 ]https://phuketpuniki.my.canva.site/travel-blog 
-[week-6] https://v0-quiz-webpage-builder-seven.vercel.app/ 
-[week-7] https://listifypuniki.my.canva.site/
-[week-8] https://phuketpuniki.my.canva.site/untitled-app
-[week-9] https://listifypuniki.my.canva.site/forecast
+[week-2]  https://my-site-ptw72gk9-ks6867259.wix-vibe.com   
+[week-3]  https://techfesr2.my.canva.site/
+[week-4]  https://listifypuniki.my.canva.site/theshelf
+[week-5]  https://phuketpuniki.my.canva.site/travel-blog 
+[week-6]  https://v0-quiz-webpage-builder-seven.vercel.app/ 
+[week-7]  https://listifypuniki.my.canva.site/
+[week-8]  https://phuketpuniki.my.canva.site/untitled-app
+[week-9]  https://listifypuniki.my.canva.site/forecast
 [week-10] https://canva.link/g44f14ag6lvnrz1
 [week-11] https://listifypuniki.my.canva.site/librarycatalouge   
 [week-12] https://navigationstack.my.canva.site/marketplace       
